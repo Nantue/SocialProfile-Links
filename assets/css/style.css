@@ -58,7 +58,7 @@ body{
     margin-bottom: 25px;
 }
 
-.card-info-social h4{
+.card-info-social h1{
     font-size: 24px;
     color: var(--White);
     font-weight: bold;
