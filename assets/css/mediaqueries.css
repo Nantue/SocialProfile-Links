@@ -1,0 +1,20 @@
+/* MAX-WIDTH: 400px */
+@media (max-width: 455px){
+    /* CARD-SOCIAL */
+    #card-social{
+        width: 90%;
+        padding: 25px;
+    }
+
+    /* .btn-card-social a {
+         width: 89%;
+    } */
+}
+
+@media (max-width: 375px){
+    /* CARD-SOCIAL */
+    #card-social{
+        width: 87%;
+    }
+}
+
